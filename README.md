@@ -1,6 +1,16 @@
 # Estimator Frontend
 
-Frontend app to create, save, and view estimates.
+Frontend App to consume [TheEstimator API](https://github.com/ikarabulut/TheEstimator)
+
+## Technologies Used
+
+- [TypeScript](https://www.typescriptlang.org/)
+- [Vue3](https://vuejs.org/)
+- [Vite](https://vitejs.dev/)
+- [Vitest](https://vitest.dev/)
+- [Bootstrap 5](https://getbootstrap.com/docs/5.0/getting-started/introduction/) && [Bootstrap-Vue-3](https://cdmoro.github.io/bootstrap-vue-3/)
+- [eslint](https://eslint.org/)
+- [prettier](https://prettier.io/)
 
 ## Recommended IDE Setup
 
