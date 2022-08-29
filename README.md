@@ -1,5 +1,7 @@
 # Estimator Frontend
 
+[![Build](https://github.com/ikarabulut/estimator-frontend/actions/workflows/build.yml/badge.svg)](https://github.com/ikarabulut/estimator-frontend/actions/workflows/build.yml)
+
 Frontend App to consume [TheEstimator API](https://github.com/ikarabulut/TheEstimator)
 
 ## Requirements
