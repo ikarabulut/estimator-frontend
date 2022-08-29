@@ -2,6 +2,10 @@
 
 Frontend App to consume [TheEstimator API](https://github.com/ikarabulut/TheEstimator)
 
+## Requirements
+
+- Node.js 16+
+
 ## Technologies Used
 
 - [TypeScript](https://www.typescriptlang.org/)
