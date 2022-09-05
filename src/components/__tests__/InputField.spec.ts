@@ -1,5 +1,4 @@
 import { describe, it, expect } from 'vitest'
-
 import { mount } from '@vue/test-utils'
 import InputField from '../InputField.vue'
 
@@ -49,5 +48,18 @@ describe('InputField', () => {
     const saveButton = wrapper.findAll('[data-test="saveButton"]')
 
     expect(saveButton).toHaveLength(1)
+  })
+
+  it.skip('should add a calculated estimate to data when calculate button is pressed', () => {
+    //     vi.mock('axios', () => {
+    //       const axios = vi.fn()
+    //     })
+    //
+    //     const wrapper = mount(InputField)
+    //     const calculateButton = wrapper.get('[data-test="calculateButton"]')
+    //
+    //     calculateButton.trigger('click')
+    //
+    //     expect(axios).toBeCalledTimes(1)
   })
 })
