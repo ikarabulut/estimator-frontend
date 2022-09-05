@@ -15,7 +15,6 @@ export default defineComponent({
   methods: {
     generateEstimate() {
       this.clicked = true
-      console.log('hello', this.optimistic, this.pessimistic, this.mostLikely)
     },
   },
 })
