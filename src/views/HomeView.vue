@@ -5,7 +5,7 @@ import InputField from '../components/InputField.vue'
 </script>
 
 <template>
-  <main>
+  <main class="container-fluid text-center">
     <NavBar />
 
     <div class="card text-white bg-secondary my-4">
