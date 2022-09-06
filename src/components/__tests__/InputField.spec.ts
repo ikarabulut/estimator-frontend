@@ -50,16 +50,16 @@ describe('InputField', () => {
     expect(saveButton).toHaveLength(1)
   })
 
-  it.skip('should add a calculated estimate to data when calculate button is pressed', () => {
-    //     vi.mock('axios', () => {
-    //       const axios = vi.fn()
-    //     })
-    //
-    //     const wrapper = mount(InputField)
-    //     const calculateButton = wrapper.get('[data-test="calculateButton"]')
-    //
-    //     calculateButton.trigger('click')
-    //
-    //     expect(axios).toBeCalledTimes(1)
-  })
+  // it('should add a calculated estimate to data when calculate button is pressed', () => {
+  //     vi.mock('axios', () => {
+  //       const axios = vi.fn()
+  //     })
+  //
+  //     const wrapper = mount(InputField)
+  //     const calculateButton = wrapper.get('[data-test="calculateButton"]')
+  //
+  //     calculateButton.trigger('click')
+  //
+  //     expect(axios).toBeCalledTimes(1)
+  // })
 })
